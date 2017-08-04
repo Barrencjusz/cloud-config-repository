@@ -1,1 +1,2 @@
-saying: Hello Łukasz!
+saying:
+  all: ${saying.prefix} ${saying.name}
