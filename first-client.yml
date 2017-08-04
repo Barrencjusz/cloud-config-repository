@@ -1,3 +1,3 @@
 saying:
-  all: ${saying.prefix} ${saying.name}
   name: default profile
+  all: ${saying.prefix} ${saying.name}
