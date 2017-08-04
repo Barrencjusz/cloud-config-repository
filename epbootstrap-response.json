@@ -1,0 +1,4520 @@
+{
+  "config" : {
+    "uuid" : "playerchannelchromed",
+    "createdTime" : 1501757947896,
+    "lastUpdateTime" : 1501757947896,
+    "publisher" : {
+      "uuid" : "18184",
+      "title" : "Testing Publisher",
+      "territory" : "EPLAYER_BE",
+      "languageCode" : "en_GB"
+    },
+    "features" : {
+      "scrollToPlay" : true,
+      "startMuted" : false,
+      "autoPlay" : false,
+      "sharingEnabled" : true,
+      "gtmEnabled" : true,
+      "ctpLightboxOnlyEnabled" : false,
+      "volumeRemember" : true,
+      "initialVolume" : 1.0,
+      "additionalContentAutoPlay" : false,
+      "titleType" : "PUBLISHER_LOGO",
+      "scrollSetting" : "MUTE",
+      "largeOnlyPopupPlayer" : false,
+      "mobileAutoplayMode" : "AP"
+    },
+    "metadata" : {
+      "name" : "Test player name",
+      "description" : "Sample description",
+      "displayName" : "Sample display name"
+    },
+    "dataSource" : {
+      "type" : "CHANNEL",
+      "fallbackChannelUuid" : "b1e82e57b7604972b52d56a9598d1131",
+      "sourceItems" : [ {
+        "sourceUuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+        "source" : "CHANNEL",
+        "title" : "Goal.com",
+        "topic" : "Sport",
+        "category" : "Football",
+        "type" : "Channel",
+        "videos" : [ {
+          "uuid" : "1u9cysx9cmdgi1k2o12j3so1id",
+          "title" : "I'm paid to do my job - Wenger",
+          "description" : "Despite yet more calls for him to resign, Arsene Wenger says he will remain fully focused on his job with Arsenal after watching his team beat Stoke 4-1",
+          "duration" : 29,
+          "poster" : "http://images.performgroup.com/javaImages/bc/c2/0,,~15516348,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "52EAB033AD494E43B54826C3EAB37927",
+              "name" : "Premier League News - Arsenal"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494712860000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Arsenal",
+            "rightsHolderName" : "NewRightHolderName_1"
+          } ]
+        }, {
+          "uuid" : "tt4xq06qrjh21dqu0zw1n604t",
+          "title" : "Wenger looking for West Ham favour against Liverpool",
+          "description" : "Now only a point behind Liverpool in the race for UEFA Champions League football, Arsene Wenger is hoping West Ham can beat Jurgen Klopp's men",
+          "duration" : 29,
+          "poster" : "http://images.performgroup.com/javaImages/a0/c2/0,,~15516320,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "52EAB033AD494E43B54826C3EAB37927",
+              "name" : "Premier League News - Arsenal"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494712020000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Arsenal",
+            "rightsHolderName" : "NewRightHolderName_1"
+          } ]
+        }, {
+          "uuid" : "yuymfk5xnigm1vf46xul374q4",
+          "title" : "Mahrez penalty a 'freak incident' - Shakespeare",
+          "description" : "Craig Shakespeare has described Riyad Mahrez's penalty miss as a freak incident following Leicester's 2-1 defeat at Manchester City.",
+          "duration" : 36,
+          "poster" : "http://images.performgroup.com/javaImages/74/c0/0,,~15515764,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "mpyhb0v618971mvv4r5y3gsrm",
+              "name" : "Premier League News - Leicester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            } ]
+          },
+          "publishedTime" : 1494698548000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Leicester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "as93n7j6oq7g1tr03ff5pb700",
+          "title" : "Shakespeare calls for more video technology after Silva goal",
+          "description" : "Craig Shakespeare believes more video technology should be used in football after David Silva's goal in Manchester City's 2-1 win over Leicester.",
+          "duration" : 49,
+          "poster" : "http://images.performgroup.com/javaImages/67/c0/0,,~15515751,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "mpyhb0v618971mvv4r5y3gsrm",
+              "name" : "Premier League News - Leicester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            } ]
+          },
+          "publishedTime" : 1494698294000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Leicester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "t5iq6xpduvha1nzfmgueevtb1",
+          "title" : "Gabriel Jesus has 'a lot of things to improve' - Guardiola",
+          "description" : "Pep Guardiola says striker Gabriel Jesus still has a lot of areas to improve on, despite the striker scoring in Manchester City's 2-1 win over Leicester.",
+          "duration" : 26,
+          "poster" : "http://images.performgroup.com/javaImages/d4/bf/0,,~15515604,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494695852000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "mtmewac164gx1j3xi6dn197n4",
+          "title" : "Guardiola praises 'brave' referee over penalty decision",
+          "description" : "Pep Guardiola says the referee made a brave decision in disallowing Riyad Mahrez's penalty in Manchester City's 2-1 win over Leicester.",
+          "duration" : 40,
+          "poster" : "http://images.performgroup.com/javaImages/88/bf/0,,~15515528,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "mpyhb0v618971mvv4r5y3gsrm",
+              "name" : "Premier League News - Leicester City"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494693759000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Leicester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "11ag1uq61x8je1sp6sv8k37cfr",
+          "title" : "Allegri congratulates Conte, hails 'king' Ancelotti",
+          "description" : "Massimiliano Allegri hails the achievement of his Italian compatriot, Antonio Conte, at Chelsea, and describes Bayern Munich's Carlo Ancelotti as a 'king'.",
+          "duration" : 19,
+          "poster" : "http://images.performgroup.com/javaImages/e0/be/0,,~15515360,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "442e0139-fb80-49f6-8e3f-aad9c3606592",
+              "name" : "Bundesliga"
+            }, {
+              "uuid" : "66D8513DC7AA4732A394002C58D37F55",
+              "name" : "Bundesliga"
+            }, {
+              "uuid" : "EDEA80A4864940C8BE27DCF43C039ED4",
+              "name" : "Bundesliga"
+            }, {
+              "uuid" : "e6b7fce1-5a05-420c-90a2-97f339f5bf09",
+              "name" : "Bundesliga"
+            }, {
+              "uuid" : "1ef6c94f-1549-4d22-b495-43ca509575f0",
+              "name" : "Bundesliga News"
+            }, {
+              "uuid" : "b1e82e57b7604972b52d56a9598d1131",
+              "name" : "Bundesliga News"
+            }, {
+              "uuid" : "43A34E32329F4A4A99E300E727796C44",
+              "name" : "Bundesliga-nyheter"
+            }, {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "bfc8b66d5e0448f48c23b664c7cc81c4",
+              "name" : "European Soccer News"
+            }, {
+              "uuid" : "muy88fv9d18a1vzt7nffvv15s",
+              "name" : "Football Picks"
+            }, {
+              "uuid" : "7945EB4F34B140E5AB64BE415EF145EF",
+              "name" : "German Football Highlights"
+            }, {
+              "uuid" : "1pntxr3ma1xvh18aa2o5l5jazv",
+              "name" : "German Football Highlights - Bayern Munich"
+            }, {
+              "uuid" : "CAB00B6C42580CC5E0440021281A8A86",
+              "name" : "German Soccer Highlight"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "67bb4767-35c3-4512-a19e-6af19032378c",
+              "name" : "Italian Serie A"
+            }, {
+              "uuid" : "12ogd1f7obxkg1gtl0dpivklsv",
+              "name" : "Ligue 1 News (Spanish Lat Am)"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "B74C8BF308B646DA93DE7E4914A233DB",
+              "name" : "Novice iz italijanskega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "42519235-cf9b-4278-871b-0621e52f651d",
+              "name" : "Serie A"
+            }, {
+              "uuid" : "81b628fe893b41b2b767fa8cda03a62d",
+              "name" : "Serie A News"
+            }, {
+              "uuid" : "n8g6nxal4lmd1cfmk43zey5ex",
+              "name" : "Serie A News - Juventus"
+            }, {
+              "uuid" : "B9A79E92EB7D40AE936BFBA2C1ACB5F2",
+              "name" : "Serie A-nyheter"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494689751000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Serie A News",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Bundesliga News",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Serie A News - Juventus",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Bundesliga News - Bayern Munich",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "1vr3qswjy2g8n16zx4v3ayf5s7",
+          "title" : "Chelsea's Premier League title... in numbers",
+          "description" : "A look at some of the key numbers behind Chelsea's Premier League title success.",
+          "duration" : 62,
+          "poster" : "http://images.performgroup.com/javaImages/a1/be/0,,~15515297,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494688725000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "1g8c4gczn8i951pji25p2zdq42",
+          "title" : "The Amazons preview Reading's play-off clash with Fulham",
+          "description" : "The Amazons preview Reading's play-off clash with Fulham",
+          "duration" : 509,
+          "poster" : "http://images.performgroup.com/javaImages/77/bd/0,,~15514999,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "C5A8D97284B85C21E0440021281A8A86",
+              "name" : "Goal.com Ghana"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "u0ifc5jsdik61j5qx0zgxnhgz",
+              "name" : "Goal.com Singapore"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            } ]
+          },
+          "publishedTime" : 1494676980000,
+          "rights" : [ {
+            "title" : "Goal.com"
+          }, {
+            "title" : "Goal UK"
+          } ]
+        }, {
+          "uuid" : "1d6m4iacvrsz19nrf50t9t8ph",
+          "title" : "On This Day... Manchester City win the Premier League",
+          "description" : "On this day in 2012 Manchester City clinched the Premier League title with a thrilling last-minute goal from Sergio Aguero.",
+          "duration" : 76,
+          "poster" : "http://images.performgroup.com/javaImages/e5/bc/0,,~15514853,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "3ED83D2644DE4FA4B8DEAE377C797895",
+              "name" : "Premier League News - Manchester United"
+            }, {
+              "uuid" : "195EF6831E7846828DCF04A5B0169710",
+              "name" : "Premier League News - QPR"
+            }, {
+              "uuid" : "41C0D6FEE58F4ACEB84E2FF6727BCB7E",
+              "name" : "Premier League News - Sunderland"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494670002000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Manchester United",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - QPR",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Sunderland",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "atftso4xyy8515nygz77ma83z",
+          "title" : "Iheanacho's Man City future to be decided at end of season - Guardiola",
+          "description" : "Pep Guardiola says he'll make a decision on the future of young striker Kelechi Iheanacho at the end of the season.",
+          "duration" : 23,
+          "poster" : "http://images.performgroup.com/javaImages/bd/bc/0,,~15514813,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494669028000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "eo5hyohubzlg104pyppckhe38",
+          "title" : "Chelsea deserve title success - Pulis",
+          "description" : "Tony Pulis says Chelsea are worthy Premier League champions after the Blues sealed the title with a 1-0 win at West Brom.",
+          "duration" : 46,
+          "poster" : "http://images.performgroup.com/javaImages/92/bc/0,,~15514770,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "5C4B34D8234B4FE9BAB2CC2669F88C44",
+              "name" : "Premier League News - West Brom"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494666972000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - West Brom",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "1fs9tjdi8jwla16ooka1fvg8pa",
+          "title" : "Conte targets double after Chelsea clinch title",
+          "description" : "Antonio Conte has already set his sights on the FA Cup after Chelsea clinched their fifth Premier League title.",
+          "duration" : 23,
+          "poster" : "http://images.performgroup.com/javaImages/5c/bc/0,,~15514716,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494664721000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "79r8apaeb83v1vvy3litctr2f",
+          "title" : "Arsenal defeat the turning point in Chelsea's season - Conte",
+          "description" : "Antonio Conte has described September's defeat at Arsenal as the key moment in Chelsea's title-winning season.",
+          "duration" : 61,
+          "poster" : "http://images.performgroup.com/javaImages/46/bc/0,,~15514694,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "52EAB033AD494E43B54826C3EAB37927",
+              "name" : "Premier League News - Arsenal"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494663612000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Arsenal",
+            "rightsHolderName" : "NewRightHolderName_1"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "1cypbztjowzey1jxxf2cy4rp6m",
+          "title" : "Chelsea fans partying a bit hard?",
+          "description" : "Chelsea fans were in party mode in London after the Blues won the title on Friday night at West Brom.",
+          "duration" : 60,
+          "poster" : "http://images.performgroup.com/javaImages/c6/bb/0,,~15514566,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494658552000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "18464l9h3cspc19bufldfl2tac",
+          "title" : "Conte living a 'dream' after Chelsea secure title",
+          "description" : "Antonio Conte admits he's living a 'dream' after Chelsea secured a fifth Premier League title on Friday.",
+          "duration" : 47,
+          "poster" : "http://images.performgroup.com/javaImages/32/bb/0,,~15514418,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494651060000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "fy53nqou9d461r3q7ox5u70he",
+          "title" : "Chelsea will celebrate after disappointing last season - Conte",
+          "description" : "Chelsea manager Antonio Conte insists the club must celebrate its title success after a disappointing campaign last season.",
+          "duration" : 43,
+          "poster" : "http://images.performgroup.com/javaImages/29/bb/0,,~15514409,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494650144000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "lnqgxja0ma2t1w3r00zr3d6gz",
+          "title" : "How Chelsea won the title: part 2",
+          "description" : "Chelsea began the year ending a 13 game winning streak, but it wouldn't derail their charge to a fifth Premier League title.",
+          "duration" : 136,
+          "poster" : "http://images.performgroup.com/javaImages/4e/ba/0,,~15514190,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "E297B574D6114717BD8B4F73A108DA80",
+              "name" : "Premier League News - Tottenham"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494638709000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Tottenham",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "kwgzwxq6gl5618c1v8e6qeprj",
+          "title" : "Conte 'kidnapped' from his press conference by Luiz and Costa",
+          "description" : "Antonio Conte's Premier League winning press conference was ended abruptly on Friday, after Diego Costa and David Luiz dragged their manager out.",
+          "duration" : 24,
+          "poster" : "http://images.performgroup.com/javaImages/e1/b9/0,,~15514081,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "5C4B34D8234B4FE9BAB2CC2669F88C44",
+              "name" : "Premier League News - West Brom"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494634295000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - West Brom",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "1fyut76lxzml41wt7nuaqwvzq3",
+          "title" : "Chelsea party starts at final whistle",
+          "description" : "Chelsea fans were in celebratory mode at the final whistle of their match against West Bromwich Albion.",
+          "duration" : 28,
+          "poster" : "http://images.performgroup.com/javaImages/d0/b9/0,,~15514064,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494633604000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "kb1y8c1fyzlh1hexhwl6uis8m",
+          "title" : "How Chelsea won the title: part 1",
+          "description" : "Chelsea are the 2016-17 Premier League champions. It's been quite a journey for Antonio Conte's side, starting from back when Jose Mourinho's second spell at the club ended.",
+          "duration" : 125,
+          "poster" : "http://images.performgroup.com/javaImages/b8/b9/0,,~15514040,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "52EAB033AD494E43B54826C3EAB37927",
+              "name" : "Premier League News - Arsenal"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "E297B574D6114717BD8B4F73A108DA80",
+              "name" : "Premier League News - Tottenham"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494631444000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Arsenal",
+            "rightsHolderName" : "NewRightHolderName_1"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Tottenham",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "il4eyd2jjvyc190t4caw4ki24",
+          "title" : "Chelsea fans celebrate title-winning goal",
+          "description" : "Chelsea fans erupted in joy after Michy Batshuayi's goal sealed a fifth Premier League title.",
+          "duration" : 42,
+          "poster" : "http://images.performgroup.com/javaImages/46/b9/0,,~15513926,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494629466000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "5179hfdn12bi168ldw8nd9alo",
+          "title" : "Conte's work to turn Chelsea into champions",
+          "description" : "The secret to Antonio Conte's impressive debut season as Chelsea manager? Hard work.",
+          "duration" : 49,
+          "poster" : "http://images.performgroup.com/javaImages/f4/b8/0,,~15513844,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494626793000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "84ses8y69bp9145bh3s7g06nz",
+          "title" : "Everybody loves Antonio Conte",
+          "description" : "Chelsea's Premier League winning manager Antonio Conte has attracted praise from all across Europe after his debut season in English football.",
+          "duration" : 94,
+          "poster" : "http://images.performgroup.com/javaImages/e4/b8/0,,~15513828,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494625996000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "11mx77ja4npr2120hnbl7xo4ss",
+          "title" : "Tottenham's new stadium will have the 'soul of White Hart Lane' - Pochettino",
+          "description" : "Mauricio Pochettino says it will be a special day when Tottenham play at White Hart Lane for the final time, but believes the fans are excited by their new stadium.",
+          "duration" : 56,
+          "poster" : "http://images.performgroup.com/javaImages/aa/b7/0,,~15513514,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "E297B574D6114717BD8B4F73A108DA80",
+              "name" : "Premier League News - Tottenham"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494612861000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Tottenham",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "16d8c70g0ggeh116rcby90e3nx",
+          "title" : "Pochettino plans to watch Chelsea's shot at the title",
+          "description" : "Tottenham manager Mauricio Pochettino says he'll be watching Chelsea's match against West Brom, with the Blues just one match away from the Premier League title.",
+          "duration" : 34,
+          "poster" : "http://images.performgroup.com/javaImages/f8/b6/0,,~15513336,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2E565127052340C184AC1400BDB4280",
+              "name" : "Premier League News - Chelsea"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "E297B574D6114717BD8B4F73A108DA80",
+              "name" : "Premier League News - Tottenham"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494609435000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Chelsea",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Tottenham",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "8lm07he6hvaj18eu6rgjcc9f4",
+          "title" : "Is FC Metz’s Ismaila Sarr the new Sadio Mané?",
+          "description" : " 19-year-old Ismaila Sarr has drawn comparisons with Liverpool forward Sadio Mané. The two came through the same academy (Generation Foot in Senegal) and started their career at the same Ligue 1 club (Metz). But can Sarr follow the same path as Mané?",
+          "duration" : 174,
+          "poster" : "http://images.performgroup.com/javaImages/8f/b6/0,,~15513231,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "bfc8b66d5e0448f48c23b664c7cc81c4",
+              "name" : "European Soccer News"
+            }, {
+              "uuid" : "60A7A7295B304B30A278882ED00A3B4",
+              "name" : "Francosko prvenstvo"
+            }, {
+              "uuid" : "74fad42f-d70a-4ce4-a66b-31e542922e68",
+              "name" : "Fransk Fotboll"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "a234f1599e0a4576848ead30d0645d6d",
+              "name" : "Ligue 1 News"
+            }, {
+              "uuid" : "12ogd1f7obxkg1gtl0dpivklsv",
+              "name" : "Ligue 1 News (Spanish Lat Am)"
+            }, {
+              "uuid" : "BB3418687C224BA389B6DCDDCEC24B21",
+              "name" : "Ligue 1-nyheter"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "ea9f442a-228b-4e24-9eb7-278b53f4a5f3",
+              "name" : "Ranskan liiga"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "C9F4AB6BE4C74BCB83BD9F53DC444FB1",
+              "name" : "Νέα Λιγκ 1 (Γαλλία)"
+            } ]
+          },
+          "publishedTime" : 1494607906000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Ligue 1 Highlights",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "xdvd6jr0yqn71qcb28d2uioy6",
+          "title" : "Man City players' futures already decided - Guardiola",
+          "description" : "Pep Guardiola revealed seven out of contract Man City players, including Yaya Toure, Jesus Navas and Willy Caballero, have already had their futures decided.",
+          "duration" : 28,
+          "poster" : "http://images.performgroup.com/javaImages/4d/b6/0,,~15513165,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "mpyhb0v618971mvv4r5y3gsrm",
+              "name" : "Premier League News - Leicester City"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494606089000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - Leicester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "k8cahda6qpz610xa0yaq1zt2t",
+          "title" : "Guardiola will get Yaya Toure 'the biggest' birthday cake",
+          "description" : "Pep Guardiola will get Yaya Toure 'the biggest cake ever' when the midfielder turns 34 on Saturday.",
+          "duration" : 15,
+          "poster" : "http://images.performgroup.com/javaImages/43/b6/0,,~15513155,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2BFBFD27F39E410487E8EC1FEF3018D4",
+              "name" : "Premier League News - Manchester City"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494605655000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester City",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "20xpvmvpz5081rq4z20on9opj",
+          "title" : "Top four finish will dictate Liverpool transfers - Klopp",
+          "description" : "Jurgen Klopp admits whether Liverpool finish in the top four or not will have a big effect on the club's transfer policy.",
+          "duration" : 65,
+          "poster" : "http://images.performgroup.com/javaImages/ea/b5/0,,~15513066,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "5043C22315D347C5BE6E28CE7B5DC9E1",
+              "name" : "Premier League News - Liverpool"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494602573000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Liverpool",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "194hnnu976w611l8kuxptpaf38",
+          "title" : "Klopp relaxed over top four pressure",
+          "description" : "Liverpool manager Jurgen Klopp insists the pressure is a good thing ahead of the crucial Premier League clash with West Ham.",
+          "duration" : 52,
+          "poster" : "http://images.performgroup.com/javaImages/da/b5/0,,~15513050,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "5043C22315D347C5BE6E28CE7B5DC9E1",
+              "name" : "Premier League News - Liverpool"
+            }, {
+              "uuid" : "snj28ynsedqyz8fdjotw625r",
+              "name" : "Premier League News - London"
+            }, {
+              "uuid" : "C35BA97064EA72D1E0440021281A8A86",
+              "name" : "Premier League News - West Ham"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494602113000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Liverpool",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          }, {
+            "title" : "Premier League News - West Ham",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        }, {
+          "uuid" : "1i0mbet4ipztv18tr2ekv1fzh7",
+          "title" : "Man United's season a success without Europa League - Mourinho",
+          "description" : "Jose Mourinho believes it will be a successful season for Manchester United, even if they don't win the UEFA Europa League.",
+          "duration" : 71,
+          "poster" : "http://images.performgroup.com/javaImages/a4/b5/0,,~15512996,00.jpeg",
+          "templateCfg" : {
+            "channels" : [ {
+              "uuid" : "9e9495d8-a31f-49ff-b1f8-b32646ab3c70",
+              "name" : "Englannin Valioliiga"
+            }, {
+              "uuid" : "101d326d6e3b40f4b8d70203d90915b3",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "90c3f911c1684c4f96b53843751b4bb7",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "9DA648E8A87043FE8873DC574C993DED",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "a9c3cf1462c74899b8379239b0c7ac90",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "bcb7368b-84ff-4d52-99e2-144e9532a598",
+              "name" : "Goal.com"
+            }, {
+              "uuid" : "r9vh4esys7w41s1oht6veu3h7",
+              "name" : "Goal.com  - Entrevistas"
+            }, {
+              "uuid" : "A6F849456C2B49FAB7B1E1AA691205FD",
+              "name" : "Goal.com Australia"
+            }, {
+              "uuid" : "1wfogmp1dn27v16xwo1svo1fwc",
+              "name" : "Goal.com China"
+            }, {
+              "uuid" : "CE5E1D3967E4193EE0440021281A8A86",
+              "name" : "Goal.com Colombia"
+            }, {
+              "uuid" : "7C4D473640404F479DEBD045CA75A75E",
+              "name" : "Goal.com Hong Kong"
+            }, {
+              "uuid" : "6319A70EA18847B5B883521BD49D4EFE",
+              "name" : "Goal.com Indonesia"
+            }, {
+              "uuid" : "7AAB0295739D4FEFAB28EFD39C9D9707",
+              "name" : "Goal.com Ireland"
+            }, {
+              "uuid" : "CD353F44C71449B3E0440021281A8A86",
+              "name" : "Goal.com Kenya"
+            }, {
+              "uuid" : "CE5E1D3967E7193EE0440021281A8A86",
+              "name" : "Goal.com Mexico"
+            }, {
+              "uuid" : "1E84D106FA024396AA5585A18FBDBDBA",
+              "name" : "Goal.com Nigeria"
+            }, {
+              "uuid" : "CD4469566E8F48BFE0440021281A8A86",
+              "name" : "Goal.com South Africa"
+            }, {
+              "uuid" : "rt0zhd5pwras1b66nfhhxxueu",
+              "name" : "Goal.com Tanzania"
+            }, {
+              "uuid" : "BC55C1D91A104A998432E6E083A30003",
+              "name" : "Goal.com Thailand"
+            }, {
+              "uuid" : "elvp0zig3i631ct47l7lpy5bz",
+              "name" : "Goal.com Vietnam"
+            }, {
+              "uuid" : "CE719A3EBB7A08AEE0440021281A8A86",
+              "name" : "Goal.com competitions"
+            }, {
+              "uuid" : "F0B69712F7AB4E0E8BFAAB4EE0DB5B10",
+              "name" : "Microsoft English Channel"
+            }, {
+              "uuid" : "EDE29C4527A04947B100FF6268325B66",
+              "name" : "Novice iz angleškega prvenstva"
+            }, {
+              "uuid" : "202caa93-1fde-4cfe-a5bb-84b996aaa0c6",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "6c07bf59-9320-4f6a-85e7-900eab00240e",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "8319D879DC114C1E8C15868BDB77CA64",
+              "name" : "Premier League"
+            }, {
+              "uuid" : "2AA7012AE36740CAA920D0EA21A9E5C7",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "2C0A9CAD77E346C9956F2C877EF9C11B",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "638E17E4AE9A4F69B6B95CF9D5B7E300",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "74f0ae9d-1ff5-41bf-acc4-1c993ea85ef9",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "964985E176D64A3AE044002128369326",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "9776e735a37743b9b7b7d7ff11b21603",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C903D80ADC2256C6E0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "C91AF87A9C9C1C7EE0440021281A8A86",
+              "name" : "Premier League News"
+            }, {
+              "uuid" : "3ED83D2644DE4FA4B8DEAE377C797895",
+              "name" : "Premier League News - Manchester United"
+            }, {
+              "uuid" : "C4473D7CA3E4464BB37427E0BB13D300",
+              "name" : "Premier League-nyheter"
+            }, {
+              "uuid" : "1hh7lkwmxup3o13mlabtde4007",
+              "name" : "Premierleague.com Video"
+            }, {
+              "uuid" : "2C20408283D043CDB0D6309B90720D2",
+              "name" : "Stiri Premier League"
+            }, {
+              "uuid" : "676EE04D2E4F4CA78FF11DB7184568EC",
+              "name" : "프리미어 리그 뉴스 채널"
+            } ]
+          },
+          "publishedTime" : 1494601092000,
+          "rights" : [ {
+            "title" : "Premier League News",
+            "rightsHolderName" : "PremierLeague_Football_v2"
+          }, {
+            "title" : "Premier League News - Manchester United",
+            "rightsHolderName" : "Omnisport_Soccer_new_name"
+          } ]
+        } ]
+      } ]
+    },
+    "advertisements" : [ {
+      "publisherId" : "67970281",
+      "partnerId" : "18184",
+      "type" : "dfp",
+      "videoPositions" : "[0,100]"
+    } ],
+    "playerType" : "CHROMED",
+    "api" : false,
+    "semConfiguration" : {
+      "semPlayerUuid" : "playerchannelchromed-aHR0cCUzQSUyRiUyRnd3dy5tb2NreS5pbyUyRnYyJTJGNTk4MmY3Y2MxMDAwMDA3ZDA2YTg0ZWRl",
+      "lastProcessingTime" : 1501757947896,
+      "pageUrl" : "http://www.mocky.io/v2/5982f7cc1000007d06a84ede",
+      "status" : "STARTED"
+    }
+  }
+}
