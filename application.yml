@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    username: ENC(Ns3T+4A1Oz5VEb7DdzPquNjIcCYgfKAJ)
+    password: ENC(JJjJLn5AAymZKFERze/72adj8QFqUjV1He/vuhPga4gz/G98Enj0LEdRoJIyJqds)
+    host: ENC(b5qqs3pqPN9SDtK3HBBKad4s0USuaJhLtmF2sUBfxDHPtqNSfP3nuw==)
+    connection-timeout: 10000
+    virtual-host: ENC(Tqy/CQP6MvOUMlcj8biigYhlwD4b8kHL)
