@@ -5,3 +5,5 @@ spring:
     host: ENC(b5qqs3pqPN9SDtK3HBBKad4s0USuaJhLtmF2sUBfxDHPtqNSfP3nuw==)
     connection-timeout: 10000
     virtual-host: ENC(Tqy/CQP6MvOUMlcj8biigYhlwD4b8kHL)
+saying:
+  prefix: Hello!
