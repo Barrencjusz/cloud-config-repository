@@ -4,5 +4,15 @@ spring:
     password: ENC(R0VW0iaU6gNb5oKWCmufn30/RmA0RCkT/+ComChPtWkvUVuhW77t0FndwdH1yQOs)
     host: ENC(any8EhHoWBXJK5f5bHZ8rhfF3Vfou0+YUsMmNSGmNJC+opswadBZPQ==)
     virtual-host: ENC(xVNdHkueow2rYO4f0vpxMjQEY91FAFt5)
+spring:
+  cloud:
+    stream:
+      bindings:
+        springCloudBusInput:
+          group: ${spring.application.name}-${random.value}
+      rabbit:
+        bindings:
+          springCloudBusInput:
+            consumer:
 saying:
   all: ${saying.prefix} from ${saying.name}
