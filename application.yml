@@ -9,10 +9,5 @@ spring:
       bindings:
         springCloudBusInput:
           group: ${spring.application.name}-${random.value}
-      rabbit:
-        bindings:
-          springCloudBusInput:
-            consumer:
-              maxConcurrency: 4
 saying:
   all: ${saying.prefix} from ${saying.name}
