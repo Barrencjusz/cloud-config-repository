@@ -13,6 +13,6 @@ spring:
         bindings:
           springCloudBusInput:
             consumer:
-              maxConcurrency: 5
+              maxConcurrency: 4
 saying:
   all: ${saying.prefix} from ${saying.name}
