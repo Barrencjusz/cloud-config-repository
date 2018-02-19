@@ -1,1 +1,3 @@
-saying: Yo! gdagsgdsaga
+saying:
+  prefix: Good morning
+  name: Second Client
