@@ -1,4 +1,4 @@
 api:
-  uri: http://localhost:8090
-  version: 2
+  uri: http://localhost:8080
+  version: 1
   response-template: Requested api with version %d and the response is "%s"
