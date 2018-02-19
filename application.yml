@@ -5,4 +5,4 @@ spring:
     host: ENC(any8EhHoWBXJK5f5bHZ8rhfF3Vfou0+YUsMmNSGmNJC+opswadBZPQ==)
     virtual-host: ENC(xVNdHkueow2rYO4f0vpxMjQEY91FAFt5)
 saying:
-  all: ${saying.prefix} ${saying.name}
+  all: ${saying.prefix} from ${saying.name}
